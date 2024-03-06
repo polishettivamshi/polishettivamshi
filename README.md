@@ -29,8 +29,7 @@
 <a href="https://twitter.com/polishettivamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polishettivamshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/polishettivamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polishettivamshi" height="30" width="40" /></a>
 <a href="https://instagram.com/vamshi_vamce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamshi_vamce" height="30" width="40" /></a>
-  <a href="https://wa.me/9000859695" target="blank"><img align="center" src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-
+ <a href="https://wa.me/9000859695" target="blank"><img align="center" src="https://www.svgrepo.com/show/38250/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/polishettivamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="polishettivamshi" height="30" width="40" /></a>
 </p>
 
