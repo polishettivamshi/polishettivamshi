@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/polishettivamshi](https://github.com/polishettivamshi)
 
-- 💬 Ask me about **OOPS, Java, Core Java, JDBC, JSP, Servlet, Spring Boot, Hibernate, Micro services,HTML5, CSS3, JavaScript(basic), MySQL**
+- 💬 Ask me about **OOPS, Java, Core Java, Python, JDBC, JSP, Servlet, Spring Boot, Hibernate, Micro services, HTML5, CSS3, JavaScript(basic), MySQL database**
 
 - 📫 How to reach me **polishettivamshi123@gmail.com**
 
